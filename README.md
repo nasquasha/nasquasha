@@ -1,4 +1,4 @@
-## Build Like The Best ([GitHub](https://github.com))
+<h1>This shouldn't be blue</h1>
 
 <!--
 **nasquasha/nasquasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
