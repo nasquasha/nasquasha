@@ -2,7 +2,7 @@
 
 Other content perhaps?
 
-## Something else [here](https://google.com)
+## Something else ([here](https://google.com))
 
 More content
 
